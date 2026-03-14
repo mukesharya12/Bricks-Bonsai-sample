@@ -1,0 +1,2 @@
+<?php
+// Renovation services page
