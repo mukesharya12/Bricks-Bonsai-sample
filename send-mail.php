@@ -1,2 +1,1 @@
-<?php
-// Send mail processing file
+<?php ... ?>
